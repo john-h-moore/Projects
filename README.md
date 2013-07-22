@@ -1,20 +1,7 @@
 Martyr2’s Mega Project List
 ========
 
-Trying to complete all projects from [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/).
-
-**Note**: If you fork this repo to solve these projects in any language of your choice, please remove all my code, and start from scratch; you'll benefit a lot. Do ***not*** send pull requests.
-
-Some details:
-
-* I will use Python to solve these. Why? Because I want to learn the language quickly.
-* I have no interest in making games, so I'm excluding those from the list below.
-* I'm not interested in networking, so I *might* skip all (or some) of them.
-* The projects will not be made in the order posted.
-* I may not be able to complete all of them. 
-* My method of solving them may not be the best.
-
-I will link to each project that I complete. Some will be in this same repo, some bigger ones will have dedicated repos.
+Forked from https://github.com/thekarangoel/Projects
 
 ==============================
 
